@@ -1,0 +1,11 @@
+name,from,to,fixed
+AlbLimes,97,260,fixed
+DonauLimesPhase1,30,70,fixed
+DonauLimesPhase2,70,260,fixed
+Elisabethenstrasse,74,104,fixed
+HadriansWall,9999,9999,floating
+Neckarlimes,117,260,fixed
+NoordzeeKust,120,9999,floating
+Wetteraulimes,110,260,fixed
+Odenwaldlimes,110,260,fixed
+RätischeLimes,110,260,fixed
