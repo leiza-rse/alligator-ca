@@ -1,0 +1,33 @@
+#9999 
+#true
+      eigenvalue percentage of variance
+dim 1  0.5357477               21.27338
+dim 2  0.4601764               18.27261
+dim 3  0.2920557               11.59690
+      cumulative percentage of variance
+dim 1                          21.27338
+dim 2                          39.54598
+dim 3                          51.14288
+#data 
+                 name from   to    fixed       Dim 1
+1            AlbLimes   97  260    fixed  0.08790414
+2    DonauLimesPhase1   30   70    fixed -0.42720300
+3    DonauLimesPhase2   70  260    fixed -0.08376581
+4  Elisabethenstrasse   74  104    fixed -0.15446563
+5        HadriansWall 9999 9999 floating  0.58257476
+6         Neckarlimes  117  260    fixed  0.03512767
+7        NoordzeeKust  120 9999 floating  0.27302855
+8       Wetteraulimes  110  260    fixed  0.56203609
+9       Odenwaldlimes  110  260    fixed 11.85650662
+10      RätischeLimes  110  260    fixed  0.05904596
+         Dim 2       Dim 3
+1   0.44748958  1.63639857
+2  -0.75076783  0.31892153
+3   0.05697735  0.18445174
+4  -0.19725681 -0.43779170
+5   1.35315146  1.54417143
+6   0.30427849  0.00744307
+7   0.55492006 -0.09437449
+8   1.00437797 -0.20265449
+9  -5.63339950  0.31578558
+10  0.33563058 -0.42102568
